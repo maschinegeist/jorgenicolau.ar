@@ -1,7 +1,7 @@
 # jorgenicolau.ar
----
+
 This Jorge Nicolau's Personal Page build upon the template Strata by [@ajlkn](https://twitter.com/ajlkn) from [HTML5 UP](html5up.net).
- 
+
 This template is free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 A simple, minimalist template that actually began life as an unused redesign of my personal site. Includes a (configurable) parallax background effect, Poptrox-powered lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
